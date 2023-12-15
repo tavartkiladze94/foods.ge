@@ -1,0 +1,11 @@
+/*!
+ * Vue.js v2.5.22
+ * (c) 2014-2019 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue2-slideout-panel v2.12.0 (https://github.com/officert/vue-slideout-panel)
+ * (c) 2020 Tim Officer
+ * Released under the MIT License.
+ */
